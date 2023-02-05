@@ -5,13 +5,16 @@ I'm a software engineering student at UNIPAMPA 🎓
 # Skills & Technologies 💻
 
 - Rust Programming Language 🦀
-- Web Assembly (WASM) 🕸️
 - Linux 🐧
 - Machine Learning (ML) 🧠
 - JavaScript 💻
-- Bash Scripting 🐚
+- Java 
 - Docker 🐳
 - Self-Hosting 🏠
+- Web Assembly (WASM) 🕸️
+- Bash Scripting 🐚
+- Java ☕
+- Python 🐍
 
 # GitHub Stats 📈
 
