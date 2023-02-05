@@ -8,7 +8,6 @@ I'm a software engineering student at UNIPAMPA 🎓
 - Linux 🐧
 - Machine Learning (ML) 🧠
 - JavaScript 💻
-- Java 
 - Docker 🐳
 - Self-Hosting 🏠
 - Web Assembly (WASM) 🕸️
