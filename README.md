@@ -1,16 +1,14 @@
-### Hi there 👋
+# 🚀 Hi there, I'm Auri Gabriel!
 
-<!--
-**auri-gabriel/auri-gabriel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software engineering student at UNIPAMPA 🎓 
 
-Here are some ideas to get you started:
+## Skills & Technologies
+- Rust 🦀
+- WASM 🕸️
+- Linux 🐧
+- ML 🤖
+- JavaScript 💻
+- Docker 🐳
+- Bash Scripting 💾
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm always looking to expand my knowledge and work on new projects 🚧. If you have an interesting opportunity or just want to chat 💬, feel free to reach out!
