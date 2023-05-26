@@ -6,14 +6,14 @@ I'm a software engineering student at UNIPAMPA 🎓
 
 - Rust Programming Language 🦀
 - Linux 🐧
-- Machine Learning (ML) 🧠
+- Bash Scripting 🐚
 - JavaScript 💻
 - Docker 🐳
 - Self-Hosting 🏠
-- Web Assembly (WASM) 🕸️
-- Bash Scripting 🐚
 - Java ☕
 - Python 🐍
+- Machine Learning (ML) 🧠
+- Web Assembly (WASM) 🕸️
 
 # GitHub Stats 📈
 
