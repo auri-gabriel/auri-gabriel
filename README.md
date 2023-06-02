@@ -11,9 +11,6 @@ I'm a software engineering student at UNIPAMPA 🎓
 - Docker 🐳
 - Self-Hosting 🏠
 - Java ☕
-- Python 🐍
-- Machine Learning (ML) 🧠
-- Web Assembly (WASM) 🕸️
 
 # GitHub Stats 📈
 
