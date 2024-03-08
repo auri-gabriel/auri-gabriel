@@ -24,7 +24,6 @@ I'm a software engineering student at UNIPAMPA 🎓
 ---
 
 Reach me at:
-- Email: ririmello.a@gmail.com
 - University Email: aurimelo.aluno@unipampa.edu.br
 
 [![LinkedIn][linkedin-shield]][linkedin-url]
