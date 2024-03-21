@@ -2,15 +2,28 @@
 
 I'm a software engineering student at UNIPAMPA 🎓 
 
-# Skills & Technologies 💻
+# Technologies & Interests 💻
 
-- Rust Programming Language 🦀
-- Linux 🐧
-- Bash Scripting 🐚
-- JavaScript 💻
-- Docker 🐳
+## Technologies
+
+- OS 🧠
+  - Linux 🐧
+- Languages 🔡
+  - Rust Programming Language 🦀
+  - JavaScript 💻
+  - PHP 🐘
+  - Bash Scripting 🐚
+  - Python 🐍
+  - Java ☕
+- Technologies 🛠️
+  - Docker 🐳
+
+## Interests
 - Self-Hosting 🏠
-- Java ☕
+- Automation ⚙️
+- Command-line 📟
+
+
 
 # GitHub Stats 📈
 
