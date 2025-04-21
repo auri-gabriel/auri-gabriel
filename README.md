@@ -9,12 +9,13 @@ I'm a software engineering student at UNIPAMPA 🎓
 - OS 🧠
   - Linux 🐧
 - Languages 🔡
-  - Rust Programming Language 🦀
-  - JavaScript 💻
+  - Rust 🦀
+  - JavaScript 💡
+  - TypeScript 📘
   - PHP 🐘
+  - Java ☕
   - Bash Scripting 🐚
   - Python 🐍
-  - Java ☕
 - Technologies 🛠️
   - Docker 🐳
 
