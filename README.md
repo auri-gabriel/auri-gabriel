@@ -1,6 +1,8 @@
 # 🚀 Hi there, I'm Auri Gabriel!
 
-I'm a software engineering student at UNIPAMPA 🎓 
+Front-end developer @ Compass.uol 🌐
+
+Software Engineering student @ UNIPAMPA 🎓
 
 # Technologies & Interests 💻
 
@@ -30,10 +32,9 @@ I'm a software engineering student at UNIPAMPA 🎓
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=auri-gabriel&show_icons=true&hide_border=true&theme=gruvbox)
 
-<!-- # Top Languages 🌐
+# Top Languages 🌐
 
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=auri-gabriel&theme=gruvbox)
--->
 
 ---
 
