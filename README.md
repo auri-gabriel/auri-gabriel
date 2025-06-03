@@ -4,22 +4,30 @@ Front-end developer @ Compass.uol 🌐
 
 Software Engineering student @ UNIPAMPA 🎓
 
-# Technologies & Interests 💻
 
-## Technologies
+## 💡 Technologies I Use
 
-- OS 🧠
-  - Linux 🐧
-- Languages 🔡
-  - Rust 🦀
-  - JavaScript 💡
-  - TypeScript 📘
-  - PHP 🐘
-  - Java ☕
-  - Bash Scripting 🐚
-  - Python 🐍
-- Technologies 🛠️
-  - Docker 🐳
+**🧠 OS**  
+- Linux (daily driver) 🐧
+
+**🔤 Languages**  
+- Rust 🦀  
+- JavaScript / TypeScript 🌐  
+- PHP 🐘  
+- Java ☕  
+- Dart 🎯  
+- Bash 🐚
+- Python 🐍  
+
+**🛠 Frameworks & Tools**  
+- React ⚛️  
+- Flutter 📱  
+- Laravel 🧱  
+- Spring Boot 🌿  
+- Node.js 🟩  
+- NestJS 🧭  
+- Docker 🐳  
+- Git 🔧  
 
 ## Interests
 - Self-Hosting 🏠
