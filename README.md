@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hey, I'm Auri Gabriel</h1>
 
 <p align="center">
-  🌐 Front-end Developer @ <strong>Compass.uol</strong><br>
+  🌐 Salesforce Commerce Cloud B2C Developer @ <strong>Compass.uol</strong><br>
   🎓 Software Engineering Student @ <strong>UNIPAMPA</strong><br><br>
   <em>Crafting code, automating life & loving the CLI.</em>
 </p>
