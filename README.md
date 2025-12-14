@@ -57,7 +57,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=auri-gabriel&show_icons=true&theme=gruvbox&hide_border=true" />
   <br>
 <!--  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auri-gabriel&layout=compact&theme=gruvbox&hide_border=true"/> -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auri-gabriel&layout=compact&theme=gruvbox&hide_border=true&size_weight=1&count_weight=0&hide=blade,html,pug,vim%20snippet,css,scss"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=auri-gabriel&layout=compact&theme=gruvbox&hide_border=true&size_weight=1&count_weight=0&hide=blade,html,pug,vim%20snippet,css,scss,jupyter%20notebook"/>
 </div>
 
 ---
